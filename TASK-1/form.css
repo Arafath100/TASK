@@ -41,7 +41,6 @@ body {
   }
   
   .formButton {
-    float: right;
     background-color:#ffffff;
     display:inline-block;
     color:var(--main-color);
